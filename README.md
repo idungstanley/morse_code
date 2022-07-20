@@ -41,7 +41,7 @@ To get a local copy on this project on your machine follow these steps
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome and highly encouraged!
-We feel that your input is what helps us grow so you're always Welcome :)
+
 
 Feel free to check the [issues page](https://github.com/idungstanley/morse_code/issues).
 
